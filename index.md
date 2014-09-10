@@ -13,9 +13,9 @@ Tällä sivustolla voit vastata samoihin kysymyksiin kuin kymmenet tuhannet euro
 ## Klikkaa, vastaa ja testaa!
 
 
-### [Valtapiirien Eurooppa]()
+### [Valtapiirien Eurooppa](https://muuankarski.shinyapps.io/shiny_ess_valta/)
 
-### [Hyvinvoinnin Eurooppa](https://muuankarski.shinyapps.io/avoin-suomi-2014-shinydocs/shiny_eurostat.Rmd)
+### [Hyvinvoinnin Eurooppa]()
 
 ### [Arvojen Eurooppa]()
 
