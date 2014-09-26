@@ -1,7 +1,8 @@
-name: Euroopan uusjako
+name: Kainu Cafe Racers
 description: Something here
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 pygments: false
-baseurl: https://muuankarski.github.io/euroopan-uusjako
+baseurl: https://kainu.github.io/cafe-racer
+
